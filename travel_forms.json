@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Noelia Rico Pach\u00f3n",
+    "destination": "Roma",
+    "departure_date": "2024-09-01",
+    "return_date": "2024-09-10",
+    "saved_at": "2025-09-28T19:19:10Z"
+  },
+  {
+    "name": "Noelia Rico Pach\u00f3n",
+    "destination": "Roma",
+    "departure_date": "2025-10-10",
+    "return_date": "2025-10-22",
+    "saved_at": "2025-09-29T09:13:36Z",
+    "evaluation": {
+      "all_fields_present": true,
+      "missing_fields": [],
+      "dates_valid": true,
+      "issues": []
+    }
+  }
+]
